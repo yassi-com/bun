@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/model-hooks
+module github.com/yassi-com/bun/example/model-hooks
 
 go 1.25.0
 

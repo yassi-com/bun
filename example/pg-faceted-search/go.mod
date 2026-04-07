@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/pg-faceted-search
+module github.com/yassi-com/bun/example/pg-faceted-search
 
 go 1.24.0
 

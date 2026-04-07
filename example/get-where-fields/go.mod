@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/get-where-fields
+module github.com/yassi-com/bun/example/get-where-fields
 
 go 1.25.0
 

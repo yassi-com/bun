@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/opentelemetry
+module github.com/yassi-com/bun/example/opentelemetry
 
 go 1.25.0 // required by google.golang.org/grpc v1.68.0
 

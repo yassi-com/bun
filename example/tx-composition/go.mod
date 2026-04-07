@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/tx-composition
+module github.com/yassi-com/bun/example/tx-composition
 
 go 1.25.0
 

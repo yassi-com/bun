@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/extra/bunbig
+module github.com/yassi-com/bun/extra/bunbig
 
 go 1.22.0
 

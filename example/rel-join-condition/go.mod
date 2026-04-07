@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/rel-join-condition
+module github.com/yassi-com/bun/example/rel-join-condition
 
 go 1.25.0
 

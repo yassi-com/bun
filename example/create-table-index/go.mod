@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/create-table-index
+module github.com/yassi-com/bun/example/create-table-index
 
 go 1.25.0
 

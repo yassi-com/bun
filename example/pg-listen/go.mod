@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/pg-listen
+module github.com/yassi-com/bun/example/pg-listen
 
 go 1.24.0
 

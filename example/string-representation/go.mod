@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/string-representation
+module github.com/yassi-com/bun/example/string-representation
 
 go 1.25.0
 

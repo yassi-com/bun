@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/mssqldialect
+module github.com/yassi-com/bun/dialect/mssqldialect
 
 go 1.24.0
 

@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/trivial
+module github.com/yassi-com/bun/example/trivial
 
 go 1.25.0
 

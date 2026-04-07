@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/fixture
+module github.com/yassi-com/bun/example/fixture
 
 go 1.25.0
 

@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/extra/bunrelic
+module github.com/yassi-com/bun/extra/bunrelic
 
 go 1.25.0 // required by google.golang.org/grpc v1.68.0
 

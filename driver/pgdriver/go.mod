@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/driver/pgdriver
+module github.com/yassi-com/bun/driver/pgdriver
 
 go 1.24.0
 

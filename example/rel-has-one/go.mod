@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/rel-has-one
+module github.com/yassi-com/bun/example/rel-has-one
 
 go 1.25.0
 

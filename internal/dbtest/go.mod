@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/internal/dbtest
+module github.com/yassi-com/bun/internal/dbtest
 
 go 1.25.0
 

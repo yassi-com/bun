@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/custom-type
+module github.com/yassi-com/bun/example/custom-type
 
 go 1.25.0
 

@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/migrate
+module github.com/yassi-com/bun/example/migrate
 
 go 1.25.0
 

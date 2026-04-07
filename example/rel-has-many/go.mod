@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/rel-has-many
+module github.com/yassi-com/bun/example/rel-has-many
 
 go 1.25.0
 

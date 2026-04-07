@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dbfixture
+module github.com/yassi-com/bun/dbfixture
 
 go 1.24.0
 

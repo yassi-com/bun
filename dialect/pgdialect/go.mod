@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/pgdialect
+module github.com/yassi-com/bun/dialect/pgdialect
 
 go 1.24.0
 

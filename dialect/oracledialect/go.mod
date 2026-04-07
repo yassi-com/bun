@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/oracledialect
+module github.com/yassi-com/bun/dialect/oracledialect
 
 go 1.24.0
 

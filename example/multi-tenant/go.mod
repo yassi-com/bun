@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/multi-tenant
+module github.com/yassi-com/bun/example/multi-tenant
 
 go 1.25.0
 

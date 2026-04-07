@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/placeholders
+module github.com/yassi-com/bun/example/placeholders
 
 go 1.25.0
 

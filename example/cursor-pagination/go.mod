@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/cursor-pagination
+module github.com/yassi-com/bun/example/cursor-pagination
 
 go 1.25.0
 

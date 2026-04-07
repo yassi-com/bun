@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/example/pg-range
+module github.com/yassi-com/bun/example/pg-range
 
 go 1.24.1
 

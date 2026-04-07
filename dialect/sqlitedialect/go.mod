@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/sqlitedialect
+module github.com/yassi-com/bun/dialect/sqlitedialect
 
 go 1.24.0
 
